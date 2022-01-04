@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="{{ mix('css/app.css') }}">
   @livewireStyles
 </head>
-<body class="hold-transition sidebar-mini">
+<body class="hold-transition sidebar-mini text-sm">
 <div class="wrapper">
 
   <!-- Navbar -->
